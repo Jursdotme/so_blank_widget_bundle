@@ -1,0 +1,30 @@
+{
+  "name": "Seconthought PageBuilder Bundle",
+  "version": "4.0.0",
+  "authors": [
+    "Rasmus Jürs <rasmus@jurs.me>"
+  ],
+  "description": "An example plugin to demonstrate extending the SiteOrigin Widgets Bundle",
+  "license": "MIT",
+  "homepage": "Jurs.me",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bourbon": "~4.1.0",
+    "neat": "~1.7.1",
+    "animate.css-scss": "~3.1.0",
+    "slick-carousel": "~1.4.1",
+    "matchHeight": "git://github.com/liabru/jquery-match-height.git#64b9a547f463a0813f78150bb2e81b256d05bc10",
+    "parallax.js": "https://github.com/pixelcog/parallax.js.git#50c1ad822764d829d10eb9a3f8bc159003e17240",
+    "stellar.js": "~0.6.2",
+    "modernizr": "~2.8.3",
+    "fillerup": "~1.1.0",
+    "throttle": "~0.1.3"
+  }
+}
